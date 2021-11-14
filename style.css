@@ -420,5 +420,23 @@ footer .instagram {
   .midpage .p {
     padding: 0 24rem;
   }
+  .upperpage {
+    height: 70vh;
+  }
+}
+
+@media (min-width: 1200px) {
+  .upperpage {
+    height: 80vh;
+  }
+  .midpage {
+    height: 60vh;
+  }
+  .midpage .p {
+    padding: 0 24rem;
+  }
+  .thirdpartpage {
+    height: 40vh;
+  }
 }
 /*# sourceMappingURL=style.css.map */

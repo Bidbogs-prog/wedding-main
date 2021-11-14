@@ -7,7 +7,7 @@ $phone: 767px;
 $tablet: 768px;
 $laptop: 1024px;
 $laptop-l: 1440px;
-$four-k: 2560px;
+$Desktop: 1200px;
 *,
 body {
     width: auto;
@@ -329,5 +329,27 @@ footer {
         .p {
             padding: 0 24rem;
         }
+    }
+    
+    .upperpage{
+        height: 70vh;
+    }
+    
+}
+
+@media (min-width: $Desktop) {
+    .upperpage{
+        height: 80vh;
+    }
+
+    .midpage{
+        height: 60vh;
+        .p {
+            padding: 0 24rem;
+        }
+    }
+
+    .thirdpartpage{
+        height: 40vh;
     }
 }
