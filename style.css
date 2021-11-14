@@ -345,6 +345,12 @@ footer .instagram {
 }
 
 @media (min-width: 768px) {
+  .upperpage .images .aliquip {
+    margin-left: 60px;
+  }
+  .midpage {
+    height: 50vh;
+  }
   .midpage .p {
     font-size: 18px;
     padding: 0 11rem;
@@ -373,10 +379,10 @@ footer .instagram {
 
 @media (min-width: 1024px) {
   .upperpage {
-    height: 55vh;
+    height: 70vh;
   }
   .upperpage .aliquip {
-    margin-left: 1.5rem;
+    margin-left: 0;
   }
   .upperpage .flower5 img {
     margin-right: 1rem;
@@ -407,12 +413,15 @@ footer .instagram {
     width: 10%;
   }
   .midpage .p {
-    font-size: 20px;
+    font-size: 15px;
     padding: 0 13rem;
     line-height: 1.6rem;
   }
   .thirdpartpage {
     height: 35vh;
+  }
+  footer {
+    padding-top: 10px;
   }
 }
 
@@ -434,6 +443,7 @@ footer .instagram {
   }
   .midpage .p {
     padding: 0 24rem;
+    font-size: 20px;
   }
   .thirdpartpage {
     height: 40vh;

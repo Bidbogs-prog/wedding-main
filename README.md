@@ -37,8 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/aimdexter/weeding)
-- Live Site URL: [Demo](https://aimdexter.github.io/weeding/page.html)
+- Solution URL: [Github](https://bidbogs-prog.github.io/wedding-main/page.html)
 
 
 ### Built with
@@ -53,7 +52,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Bidbogs-prog] (https://bidbogs-prog.github.io/wedding-main/page.html)
+- Website - [Bidbogs-prog] (https://github.com/Bidbogs-prog)
 - Frontend Mentor - [@Bidbogs-prog](https://www.frontendmentor.io/profile/Bidbogs-prog)
 
 ## Acknowledgments
